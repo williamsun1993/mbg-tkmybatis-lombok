@@ -15,5 +15,7 @@ generatorConfig.xml -> 找到generatorConfiguration下的javaClientGenerator，�
 ##4. 运行，获取生成的文件
 Run-> GeneratorSqlmap.mian()方法，然后在1, 2步骤配置的路径中即可获取生成的相关文件。
 
-# LINK
-- https://github.com/abel533/Mapper
+# Link
+- tk.MyBatis https://github.com/abel533/Mapper
+- Mybatis Generator https://github.com/mybatis/generator
+- lombok https://github.com/rzwitserloot/lombok
